@@ -1,2 +1,2 @@
 # hello-world
-Hello humans. This is a hello-world project.
+Hello Humans. This is a hello-world project.
